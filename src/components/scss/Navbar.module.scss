@@ -1,0 +1,10 @@
+$main_color: #2c3e50;
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+    // background-color: black;
+    align-items: center;
+    background-color: $main_color;
+}
